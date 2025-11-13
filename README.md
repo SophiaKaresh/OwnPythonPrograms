@@ -7,3 +7,4 @@ Krátké programy - sloužící k procvičování Pythonu
 4. Text analysis - analyzuje text vložený uživatelem (součet znaků bez mezer a interpunkce,celkový počet slov,nejčastější písmeno, nejméně časté písmeno).
 5. Minigame Stone Scissors Paper - známá hra kámen nůžky papír, kdy hráč hraje s počítačem
 6. Animals records - jedná se o evidenci zvířat, kam uživatel může zadávat zvířata, zobrazit seznam a vyhledat zda je zvíře v seznamu.
+7. Password generator - generátor hesel dle zvolené délky uživatelem
