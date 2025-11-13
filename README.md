@@ -6,3 +6,4 @@ Krátké programy - sloužící k procvičování Pythonu
 3. Currency conversion - jedná se o převodník měn, který umí převádět měny z CZK, EUR, USD a GBP. Stačí aby uživatel napsal požadované informace pro převod a dojde k výpočtu.
 4. Text analysis - analyzuje text vložený uživatelem (součet znaků bez mezer a interpunkce,celkový počet slov,nejčastější písmeno, nejméně časté písmeno).
 5. Minigame Stone Scissors Paper - známá hra kámen nůžky papír, kdy hráč hraje s počítačem
+6. Animals records - jedná se o evidenci zvířat, kam uživatel může zadávat zvířata, zobrazit seznam a vyhledat zda je zvíře v seznamu.
